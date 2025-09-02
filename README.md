@@ -1,4 +1,3 @@
-# dipak
 # Hi there 👋 I'm Dipak Thakur
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=0077B5&width=780&height=50&lines=Hi,+I'm+Dipak+Thakur;Learner+%7C+Developer+%7C+Problem+Solver;C+|+C+++|+Python+|+.NET+|+Java+|+Web+Dev" alt="Typing SVG">
@@ -55,7 +54,7 @@ I’m **Dipak Thakur** — a developer who likes building practical solutions an
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![LinkedIn](https://www.linkedin.com/in/dipak-thakur-680510374/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipak.thakur@gmail.com)
 
 ---
