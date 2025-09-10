@@ -55,7 +55,7 @@ I’m **Dipak Thakur** — a developer who likes building practical solutions an
 
 ## 🌐 Connect
 [![LinkedIn](https://www.linkedin.com/in/dipak-thakur-680510374/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipak.thakur@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakurrn132@gmail.com)
 
 ---
 
