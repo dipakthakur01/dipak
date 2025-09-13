@@ -24,13 +24,6 @@ I work across core languages and web stacks, and I like clean code, projects wit
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipak-thakur&theme=react-dark&hide_border=true&area=true" alt="Dipak's Contribution Graph"/>
-</p>
-
----
-
 ## 🛠️ Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
